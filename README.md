@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🍊 coding by day · 🍌 coding by night
+☀️ coding by day 🌙 coding by night
 
 🚀 **我的作品站点**：[https://x102201.github.io](https://x102201.github.io/)
 
