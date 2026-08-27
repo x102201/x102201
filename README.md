@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-<a href="https://x102201.github.io/" target="_blank">x102201.github.io</a>
+🚀 **我的作品站点**：[x102201.github.io](https://x102201.github.io/) ↗
