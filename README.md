@@ -13,12 +13,12 @@
     <td width="55%" valign="top">
       <a href="https://github.com/x102201/deepseek-harness-helper"><strong>DSHHelper</strong> — DeepSeek Harness 桌面助手</a>
       <br/><br/>
-      单机多开、隔离运行多套 DeepSeek Harness（dsh）；内置运行时，支持分屏与 <code>.dshpack</code> 环境迁移。
+      单一实例无法承载多套业务。在一台电脑上并行运行完整独立的 dsh，同一工作区协同——实例就绪后封装为 <code>.dshpack</code> 交付。
       <br/><br/>
-      🖥️ <strong>全平台支持</strong> — Windows / macOS / Linux，兼容 x64 与 ARM<br/>
-      🔀 <strong>多实例并行</strong> — 单机可部署多个 dsh 实例，可独立运行，也可协同完成同一项工作<br/>
-      🪟 <strong>可拖拽分屏</strong> — 标签页可自由拖出并吸附组合，支持二分、三分、四分及多分屏布局<br/>
-      📦 <strong>环境迁移</strong> — 支持导出为 <code>.dshpack</code>，换机后一键恢复完整环境
+      🔒 <strong>隔离</strong> — 每实例独立进程、端口与 <code>DSH_HOME</code>，插件环境互不冲突<br/>
+      🔀 <strong>协同</strong> — 专职实例共享项目目录，分屏调度同一工作区<br/>
+      📦 <strong>变现</strong> — 调校完成的实例导出为 <code>.dshpack</code>，导入即可运行<br/>
+      🖥️ <strong>全平台</strong> — Windows / macOS / Linux · x64 与 ARM · 内置运行时
       <br/><br/>
       <a href="https://github.com/x102201/deepseek-harness-helper">查看仓库 →</a>
     </td>
