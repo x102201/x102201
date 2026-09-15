@@ -79,7 +79,7 @@ GitHub 对 Profile README 中的 HTML 经 **sanitizer** 过滤，实现横幅时
 ├─────────────────────────────────────┤
 │ 作品 / Projects                      │
 │  ┌──────────────┬──────────────────┐ │
-│  │ 左：标题+简介 │ 右：截图（可点击） │ │  ← 横幅 1（如 DSHHelper）
+│  │ 左：标题+简介 │ 右：截图（可点击） │ │  ← 横幅 1（如 dsh-helper）
 │  │ + 功能要点    │                  │ │
 │  └──────────────┴──────────────────┘ │
 │  ---                                 │
@@ -197,7 +197,7 @@ assets/
 
 | id | 产品名 | 仓库 | Profile 配图 | 状态 |
 |----|--------|------|--------------|------|
-| `dshhelper` | DSHHelper — DeepSeek Harness 桌面助手 | https://github.com/x102201/deepseek-harness-helper | `assets/dshhelper/screenshot-main-light.png` | 已上架 |
+| `dshhelper` | dsh-helper — DeepSeek Harness 桌面助手 | https://github.com/x102201/dsh-helper | `assets/dshhelper/screenshot-main-light.png` | 已上架 |
 
 ---
 
@@ -205,7 +205,7 @@ assets/
 
 ### 9.1 首期范围（做）
 
-- `README.md` 简介区 + 至少一条左文右图可点击横幅（DSHHelper）。
+- `README.md` 简介区 + 至少一条左文右图可点击横幅（dsh-helper）。
 - `assets/{id}/` 自托管配图。
 - 本 `PRD.md` 说明维护方式与平台约束。
 
